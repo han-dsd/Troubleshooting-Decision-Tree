@@ -1,6 +1,6 @@
 # 🪄 Troubleshooting Decision Tree
 
-A browser-based guided diagnostic tool aimed for help desk technicians, but can be useful for anyone. Step through branching questions to find the root cause of common IT issues, comes with a built-in ticket submission form.
+A browser-based guided diagnostic tool aimed for help desk technicians, but can be useful for anyone. Step through branching questions to find the root cause of common IT issues, comes with a built-in ticket submission form. Take every advice here with caution as I am not a professional. Do your own research, especially with sudo commands as they can disable key features.
 
 **Single HTML file. No installs. No dependencies. Just open and go.**
 
